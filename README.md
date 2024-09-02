@@ -5,8 +5,7 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact Information](#contact-information)
+5. [Contact Information](#contact-information)
 
 ## Description
 PDF Image Extractor is a Streamlit application that allows users to upload PDF files and extract all images embedded within them. The extracted images are displayed on the web interface.
@@ -52,8 +51,6 @@ To set up the project locally, follow these steps:
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request. Please follow the [contributing guidelines](CONTRIBUTING.md).
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact Information
 For questions or support, please reach out to:
